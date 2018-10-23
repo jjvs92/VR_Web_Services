@@ -10,6 +10,11 @@ body{
     text-align: right;
 }
 
+.aboutUs{
+    background-color: gray;
+    opacity: .5;
+}
+
 .footer{
 
     background: rgba(0, 0, 0, 0.6);
