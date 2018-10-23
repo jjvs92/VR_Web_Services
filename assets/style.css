@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+
+.header{
+    opacity: .5;
+}
+
+.custom-navbar{
+    text-align: right;
+}
+
+.footer{
+
+    background: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    color: white;    
+}
